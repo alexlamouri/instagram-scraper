@@ -1,4 +1,4 @@
-# InstagramScraper
+# instagram-scraper
 
 ## Description
 
